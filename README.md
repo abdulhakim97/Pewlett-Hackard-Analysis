@@ -24,4 +24,5 @@
 ## How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Almost 70% of the employees will leave in about a couple of more years, which means the company should start planning asap on training and attaining new talents to their company.
 
-## Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Their are more than enough qualified employees for these roles and position for the new generation. On top of that their will be enough mentorship for almost all sorts of postions and titles except for managment. 
+## Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+Their are more than enough qualified employees for these roles and position for the new generation. On top of that their will be enough mentorship for almost all sorts of postions and titles except for managment. 
